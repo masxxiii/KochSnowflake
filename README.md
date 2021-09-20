@@ -13,7 +13,7 @@ The Koch snowflake (also known as the Koch curve, Koch star, or Koch island) is 
 The project should be opened in **Microsoft Visual Studio**. Simply compile the project and run it. You will be presented with an interface.
 
 <p align="center">
-  <img src="./KochSnowflake/gitResources/pic1.png" alt="UI" width="750">
+  <img src="/KochSnowflake/gitResources/pic1.png" alt="UI" width="750">
 </p>
 
 <br />
