@@ -25,7 +25,7 @@ Click on Draw and the snowflake fractal will be drawn.
 In the end you will have the following result.
 
 <p align="center">
-  <img src="./gitResources/pic1.PNG" alt="UI" width="300" height="300">
+  <img src="./gitResources/pic3.PNG" alt="UI" width="300" height="300">
 </p>
 
 <br />
