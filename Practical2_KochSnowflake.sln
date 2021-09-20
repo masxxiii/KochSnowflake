@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practical2_KochSnowflake", "Practical2_KochSnowflake\Practical2_KochSnowflake.csproj", "{C9E941A1-19E2-43B2-B7B9-CE8BB2FF8267}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9E941A1-19E2-43B2-B7B9-CE8BB2FF8267}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9E941A1-19E2-43B2-B7B9-CE8BB2FF8267}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9E941A1-19E2-43B2-B7B9-CE8BB2FF8267}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9E941A1-19E2-43B2-B7B9-CE8BB2FF8267}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BE342C9-83EF-4FD9-A2FD-3D6AAB56ACC6}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+C:\Users\Masood\source\repos\Practical2_KochSnowflake\Practical2_KochSnowflake\bin\Debug\netcoreapp3.1\Practical2_KochSnowflake.exe
+C:\Users\Masood\source\repos\Practical2_KochSnowflake\Practical2_KochSnowflake\bin\Debug\netcoreapp3.1\Practical2_KochSnowflake.deps.json
+C:\Users\Masood\source\repos\Practical2_KochSnowflake\Practical2_KochSnowflake\bin\Debug\netcoreapp3.1\Practical2_KochSnowflake.runtimeconfig.json
+C:\Users\Masood\source\repos\Practical2_KochSnowflake\Practical2_KochSnowflake\bin\Debug\netcoreapp3.1\Practical2_KochSnowflake.runtimeconfig.dev.json
+C:\Users\Masood\source\repos\Practical2_KochSnowflake\Practical2_KochSnowflake\bin\Debug\netcoreapp3.1\Practical2_KochSnowflake.dll
+C:\Users\Masood\source\repos\Practical2_KochSnowflake\Practical2_KochSnowflake\bin\Debug\netcoreapp3.1\Practical2_KochSnowflake.pdb
+C:\Users\Masood\source\repos\Practical2_KochSnowflake\Practical2_KochSnowflake\obj\Debug\netcoreapp3.1\Practical2_KochSnowflake.csproj.AssemblyReference.cache
+C:\Users\Masood\source\repos\Practical2_KochSnowflake\Practical2_KochSnowflake\obj\Debug\netcoreapp3.1\Practical2_KochSnowflake.Form1.resources
+C:\Users\Masood\source\repos\Practical2_KochSnowflake\Practical2_KochSnowflake\obj\Debug\netcoreapp3.1\Practical2_KochSnowflake.Properties.Resources.resources
+C:\Users\Masood\source\repos\Practical2_KochSnowflake\Practical2_KochSnowflake\obj\Debug\netcoreapp3.1\Practical2_KochSnowflake.csproj.GenerateResource.cache
+C:\Users\Masood\source\repos\Practical2_KochSnowflake\Practical2_KochSnowflake\obj\Debug\netcoreapp3.1\Practical2_KochSnowflake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Masood\source\repos\Practical2_KochSnowflake\Practical2_KochSnowflake\obj\Debug\netcoreapp3.1\Practical2_KochSnowflake.AssemblyInfoInputs.cache
+C:\Users\Masood\source\repos\Practical2_KochSnowflake\Practical2_KochSnowflake\obj\Debug\netcoreapp3.1\Practical2_KochSnowflake.AssemblyInfo.cs
+C:\Users\Masood\source\repos\Practical2_KochSnowflake\Practical2_KochSnowflake\obj\Debug\netcoreapp3.1\Practical2_KochSnowflake.csproj.CoreCompileInputs.cache
+C:\Users\Masood\source\repos\Practical2_KochSnowflake\Practical2_KochSnowflake\obj\Debug\netcoreapp3.1\Practical2_KochSnowflake.dll
+C:\Users\Masood\source\repos\Practical2_KochSnowflake\Practical2_KochSnowflake\obj\Debug\netcoreapp3.1\Practical2_KochSnowflake.pdb
+C:\Users\Masood\source\repos\Practical2_KochSnowflake\Practical2_KochSnowflake\obj\Debug\netcoreapp3.1\Practical2_KochSnowflake.genruntimeconfig.cache

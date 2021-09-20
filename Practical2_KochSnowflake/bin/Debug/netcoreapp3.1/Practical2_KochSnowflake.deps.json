@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Practical2_KochSnowflake/1.0.0": {
+        "runtime": {
+          "Practical2_KochSnowflake.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Practical2_KochSnowflake/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
