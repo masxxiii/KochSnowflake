@@ -13,7 +13,19 @@ The Koch snowflake (also known as the Koch curve, Koch star, or Koch island) is 
 The project should be opened in **Microsoft Visual Studio**. Simply compile the project and run it. You will be presented with an interface.
 
 <p align="center">
-  <img src="./gitResources/pic1.PNG" alt="UI" width="500">
+  <img src="./gitResources/pic1.PNG" alt="UI" width="300" height="300">
+</p>
+
+Click on Draw and the snowflake fractal will be drawn.
+
+<p align="center">
+  <img src="./gitResources/pic2.PNG" alt="UI" width="300" height="300">
+</p>
+
+In the end you will have the following result.
+
+<p align="center">
+  <img src="./gitResources/pic1.PNG" alt="UI" width="300" height="300">
 </p>
 
 <br />
