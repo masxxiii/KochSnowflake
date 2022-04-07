@@ -12,8 +12,7 @@ namespace Practical2_KochSnowflake
 {
     public partial class Form1 : Form
     {
-        static Graphics obj;
-        static Pen penBlue;
+
 
         public Form1()
         {
